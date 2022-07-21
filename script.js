@@ -22,11 +22,6 @@ async function loadPokemon() { //asynchrone Funktion; lade Pokemon von API
 
     document.getElementById('loading').classList.add('d-none');
     document.getElementById('pokedex').classList.remove('d-none');
-
-
-
-
-
 }
 
 
